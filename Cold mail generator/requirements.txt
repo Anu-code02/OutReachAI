@@ -1,0 +1,11 @@
+# Streamlit Cloud–friendly, tested locally
+langchain==1.2.1
+langchain-community==0.4.1
+langchain-groq==1.1.1
+chromadb==1.4.0
+streamlit==1.52.2
+pandas==2.3.3
+python-dotenv==1.2.1
+
+# Needed by WebBaseLoader for HTML parsing
+beautifulsoup4==4.14.3
